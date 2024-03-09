@@ -7,7 +7,7 @@
 
 - 🔭 I've completed [Ms Manufacturing](https://ms-manufacturing.web.app/)
 
-- 🌱 I’m currently learning **Material UI, Redux, Native**
+- 🌱 I’m currently learning **QA Testing**
 
 - 👯 Also completed [Ms grocery](https://ms-grocery-68bcb.web.app/)
 
