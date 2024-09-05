@@ -7,8 +7,6 @@
 
 - 🔭 I've completed [Ms Manufacturing](https://ms-manufacturing.web.app/)
 
-- 🌱 I’m currently learning **QA Automation**
-
 - 👯 Also completed [Ms grocery](https://ms-grocery-68bcb.web.app/)
 
 - 👨‍💻 Here is my website [https://msazid.netlify.app/](https://msazid.netlify.app/)
