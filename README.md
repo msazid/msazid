@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **mdsaziduli14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K2i4SqBJimO5g72U23EiBtGd6a0sDtNT/view?usp=sharing](https://drive.google.com/file/d/1K2i4SqBJimO5g72U23EiBtGd6a0sDtNT/view?usp=sharing)
-
 - ⚡ Fun fact **I love kacci biriyani**
 
 <h3 align="left">Connect with me:</h3>
